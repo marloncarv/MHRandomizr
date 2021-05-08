@@ -3,11 +3,11 @@
 A VueJS application for randomizing MHW weapons and monsters
 
 **Requirements**
-NodeJS
+<p>NodeJS</p>
 
 **Install and run**
-npm install
-npm run dev
+<p>npm install</p>
+<p>npm run dev</p>
 
 
 
